@@ -1,0 +1,14 @@
+# 下面这个github链接是对抗图网络论文集，里面有很多不错的论文
+https://github.com/safe-graph/graph-adversarial-learning-literature
+
+#接下来推荐几篇我看过的论文，都可以在上面链接里找到
+1. Adversarial Attacks on Neural Networks for Graph Data（这是KDD2018的论文，最早的一篇对抗图网络的论文）
+2. Adversarial Attack on Graph Structured Data（这是宋乐教授用强化学习来做的论文）
+3. Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective
+4. A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models
+5. Adversarial Attacks on Graph Neural Networks via Meta Learning
+6. Attacking Graph-based Classification via Manipulating the Graph Structure(这是王炳辉博士的论文)
+7. Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach
+8. unifying graph convolutional neural networks and label propagation（这是王博士推荐我读的论文）
+
+注：上面推荐的论文的代码有的有，有的没有，代码链接也可以在最上面那个github链接找到，或者在github里搜论文题目也可以找到code
